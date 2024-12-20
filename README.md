@@ -4,4 +4,4 @@
 
 2. The dataset for MNIST experiment can be sent individually upon request. It is too large to be uploaded.
 
-3. Questions or Comments ?  Feel free to reach me at zhaiming.shen@uga.edu
+3. Questions or Comments ?  Feel free to reach me at zshen49@gatech.edu
